@@ -1,0 +1,283 @@
+{
+  "chickenScript": [
+    {
+      "number": "1",
+      "text": "You are lying on the sofa, staring up at the ceiling with no intention of doing anything strenuous today. You open your phone to view what everyone is posting on your non-descript social media app. You scroll through the posts of those you follow and see what they're up to...",
+      "branches": "2",
+      "branch1": "You scroll through the posts of those you follow and see what they're up to",
+      "branch1Number": "2",
+      "branch2": "You scroll through your recommended posts to peruse the seemingly endless supply of content",
+      "branch2Number": "3"
+    },
+    {
+      "number": "2",
+      "text": "You go through post after post, going through faces, foods, holidays, landscapes, and animals. The supply keeps on coming.",
+      "branches": "2",
+      "branch1": "After what seems like an eternity of scrolling, you look at your own account",
+      "branch1Number": "4",
+      "branch2": "You keep scrolling",
+      "branch2Number": "5"
+    },
+    {
+      "number": "3",
+      "text": "There are a vast number of photos and videos all coming to you at once, picked by some algorithm who has studied you and tried to appeal to you. There is music, art, film edits, memes and more. But how much will you actually view with enthusiasm? Eventually you have decided that you have consumed enough and turn to your own account...",
+      "branches": "3",
+      "branch1": "Eventually you have decided that you have consumed enough and turn to your own account",
+      "branch1Number": "4",
+      "branch2": "A video from a gig of one of your favourite musicians piques your interest. You immediately open up the comments, eager to know what others think of them",
+      "branch2Number": "6",
+      "branch3": "You keep scrolling",
+      "branch3Number": "9"
+    },
+    {
+      "number": "4",
+      "text": "Staring at your account with a few measly nature photos displayed on there, you wonder if you should post more. Everyone else does after all. Don't you want to share your life with them? Don't you want to be part of the game? They all are.",
+      "branches": "3",
+      "branch1": "You post a picture of yourself",
+      "branch1Number": "13",
+      "branch2": "You post something about an interest you're passionate about",
+      "branch2Number": "17",
+      "branch3": "Get political",
+      "branch3Number": "19"
+    },
+    {
+      "number": "5",
+      "text": "More of the media from your followers – friends, family, strangers (if they had followed you, you only thought it would be polite to return the favour), public figures – goes past in the reflection of your pupils. What are you getting from this?",
+      "branches": "2",
+      "branch1": "You've had enough and turn away from the incessant scrolling. All those bright, smiling faces. Who would have thought there'd be so many?",
+      "branch1Number": "4",
+      "branch2": "You keep scrolling",
+      "branch2Number": "11"
+    },
+    {
+      "number": "6",
+      "text": "Upon opening the comments, you are dismayed to discover a rabble of accounts savagely criticising the video. Naturally this has somewhat soured your experience of traversing the vast expanses of the internet.",
+      "branches": "3",
+      "branch1": "You engage with the comment section, diving into that cesspit",
+      "branch1Number": "7",
+      "branch2": "With a little bit more anger and annoyance toward the idiots in the world who would dare criticise your favourite musician, you go back to keep scrolling. I mean, don't they know how great they really are? They must not have the brain capacity to appreciate them",
+      "branch2Number": "9",
+      "branch3": "Already disillusioned by this experience, you put down your phone and go outside",
+      "branch3Number": "8"
+    },
+    {
+      "number": "7",
+      "text": "You fire off some comments in defence of the video, that'll show them. You concisely point out the fatal error in their judgement of the musician, a counter argument so well built that there is no room left for another.",
+      "branches": "2",
+      "branch1": "Feeling your job is done, you get back to perusing what the algorithm has in store for you today",
+      "branch1Number": "9",
+      "branch2": "You go back sometime later to see if and how the rabble have responded",
+      "branch2Number": "10"
+    },
+    {
+      "number": "8",
+      "text": "You squint slightly as the sun hits your eyes. It feels nice despite this sudden visual assault. Ambling down the road, a man passes by his back hunched and his head down, his features obscured by the shadow cast by his hat.",
+      "branches": "2",
+      "branch1": "You continue to wander down the road, headed toward the park",
+      "branch1Number": "23",
+      "branch2": "Upon amiably saying hello to the man as he passed by, he swung around, head up revealing his deranged features",
+      "branch2Number": "25"
+    },
+    {
+      "number": "9",
+      "text": "All this content passes you by. There's so much of it. Endless. You occasionally press on one to properly view, but only occasionally. Most of it is just colours reflecting on your pupils. Colours and shapes. Colours and shapes. All these people, making or exhibiting things.",
+      "branches": "2",
+      "branch1": "You step away from the ocean of things and look at your own account",
+      "branch1Number": "4",
+      "branch2": "You keep scrolling",
+      "branch2Number": "12"
+    },
+    {
+      "number": "10",
+      "text": "It wasn't the response you were hoping for. Your fingers twitch with each comment you read. What don't they realise about them? What could have possibly prompted these goblins to think such things about this artist? Some people are just twisted.",
+      "branches": "2",
+      "branch1": "Engage them again",
+      "branch1Number": "14",
+      "branch2": "Let it go",
+      "branch2Number": "16"
+    },
+    {
+      "number": "11",
+      "text": "You see so many radiant faces. They're all having a good time it seems. Not a moment of darkness in sight. There they are on holiday, exhibiting art, doing gigs, going to top end restaurants. Spending time with friends. You see one picture of a group of your friends, all on a day out. But you talk to them regularly. Where were you? Why couldn't you be there? It looked fun. Where have you been recently?",
+      "branches": "2",
+      "branch1": "Switch to look at your account",
+      "branch1Number": "4",
+      "branch2": "You keep scrolling",
+      "branch2Number": "15"
+    },
+    {
+      "number": "12",
+      "text": "So much. So much. All these people, doing amazing things. Some of it not so amazing. Some of it is just pointless. What the world could have done without. You consume all of it, good or not. You begin to flick your finger upwards, sending dozens of images and videos passing by you in an instant.",
+      "branches": "2",
+      "branch1": "Perhaps it's time to stop?",
+      "branch1Number": "4",
+      "branch2": "You keep scrolling",
+      "branch2Number": "26"
+    },
+    {
+      "number": "13",
+      "text": "You look through your catalogue of photos, looking for a selfie to upload. You settle on a picture of you outdoors, casual with a natural scene behind you. You're smiling. That'll be good.",
+      "branches": "2",
+      "branch1": "You wait to see what the comments are like",
+      "branch1Number": "18",
+      "branch2": "You begin to look through the rest of your photos, wondering if you chose the right one",
+      "branch2Number": "23"
+    },
+    {
+      "number": "14",
+      "text": "You once again take it up in the comments section, yielding similar results to the first time. This simply will not do. You rage against those fools you find within. They can't be allowed to spew their foul words on these pages dedicated to such beautiful things. You must fight against them, and so you do. As time goes by, you find yourself devoting more time to countering the hate and needless scrutiny online with your own. It's like a full-time job. Rarely does it bring any joy, but it is your duty.",
+      "branches": "0"
+    },
+    {
+      "number": "15",
+      "text": "You realise that the happiness shown on here far outweighs your own. Your friends altogether, having good times without your input. It isn't needed after all. They're all doing something with their lives, what are you doing? Wasting away. Looking at other people's lives. What good will that do you? Why won't they let you into the game? Aren't you fun? Turning off the phone, you toss it on your desk and slump down onto the bed. So connected but so apart. Ironic. Staring blankly at the ceiling, you know you'll deceive yourself again and start all over the next day.",
+      "branches": "1",
+      "branch1": "Staring blankly at the ceiling, you know you'll deceive yourself again and start all over the next day",
+      "branch1Number": "11"
+    },
+    {
+      "number": "16",
+      "text": "You reflect on that anger you felt when reading those comments. Why? You'll never speak to those people. What was the point? It was just an opinion you supposed. Maybe don't look at the comments, just enjoy the art.",
+      "branches": "0"
+    },
+    {
+      "number": "17",
+      "text": "You choose a topic that's close to your heart and post a picture of something you did related to it on your page. You put your phone down and waited eagerly for responses. After an hour, nothing comes. You check the page and see no engagement. Perhaps people are just busy today. You wait a day. Still nothing.",
+      "branches": "2",
+      "branch1": "Post something else, just in case",
+      "branch1Number": "21",
+      "branch2": "Wonder about why this has happened",
+      "branch2Number": "22"
+    },
+    {
+      "number": "18",
+      "text": "Well... that's not very nice. Why would they say that? That's horrible. Is it true? When you've looked at the posts of others you've never seen anything like that. Perhaps it's just you. Some problem. Maybe there is something wrong with you.",
+      "branches": "2",
+      "branch1": "Delete it and put up another photo, maybe the first was just in bad lighting",
+      "branch1Number": "23",
+      "branch2": "Leave the photo up",
+      "branch2Number": "20"
+    },
+    {
+      "number": "19",
+      "text": "Oh dear. You fire up the uploading system and put some political messaging on your account, putting your opinions proudly on show. You notice your follower count begin to go down and receive some less than savoury messages. You feel the anger bubbling up within you and you take part in mighty battles against these political extremists. If you happen to have over 5 million followers (unlikely, you're aware, yes?), you are swatted within two days of posting your opinions.",
+      "branches": "0"
+    },
+    {
+      "number": "20",
+      "text": "After leaving the photo up for a while some positive comments come, but only a few. They're from friends. Are they genuine, or just saying that because they believe they should? Should you believe them? But still, there's that one comment, perhaps the most truthful of them all. Maybe they're a real friend, pointing out your imperfections, guiding you down a path of self-improvement. Yeah, maybe that's it. Maybe just sleep. Delete that awful photo and see what's happening tomorrow",
+      "branches": "0"
+    },
+    {
+      "number": "21",
+      "text": "You post something else concerning your interest but again nothing comes of it. It passes everyone by, no one takes notice of it. No one cares. Something that holds so much value in your own life, but not that of others. Well, that's it, isn't it. Your life. Why should you live it according to the interests of others. They shouldn't live theirs according to yours. And why shouldn't you display your interests to everyone else, even if they don't see it. Maybe they did, just appreciating in silence. Some people will come in the future and see it, you're sure. You can only continue after all.",
+      "branches": "0"
+    },
+    {
+      "number": "22",
+      "text": "They all ignored it. Your post. A scream into the wind amidst a storm of content and life. All much greater than yours of course. Why should they care what you do, it's all worthless in the end. You know that. You know that. Just delete it and keep yourself to yourself. Why even keep the interest? It's not of value to anyone. Is it of any to you?",
+      "branches": "0"
+    },
+    {
+      "number": "23",
+      "text": "You look through the rest of your photos and the thought slowly grows. What have you done. No days out with friends, minimal moments with your family. There's barely anything noteworthy here. Jesus... how have you lived. It goes back so many years and what has it come to. Naught. Everyone else have had fruitful lives, you can see it on your phone. It's too late to start now. Too late",
+      "branches": "0"
+    },
+    {
+      "number": "24",
+      "text": "The park is quiet, serene. From your spot on the bench, you look down at the playing field at the bottom of the gentle hill. The grass has been cut recently and the smell wafts all around. The field is shielded by the trees that grow all around it, their thick foliage providing shade to those in need in the sunny seasons. It's nice here, sitting alone. You watch the people in the field talking and playing with one another. The occasional person or couple walks past you, but they give you no mind. You pull your coat a little closer.",
+      "branches": "0"
+    },
+    {
+      "number": "25",
+      "text": "He rushes up to you and stares you dead in the eye. You can see that his eyes are bloodshot and the pupils small. One of them is twitching. 'There's too much man,' he says to you. He giggles. 'Too much, man. Yeah, man. Man. Man. Man!' He grabs you by the arm and swings his body to face each side of the street. His other arm shields his eyes. You look with him but do not see anyone approaching. 'It's just...' he says, trailing off. He snatches his hand back to claw it down his face. His pupils roll into the back of his head as he makes a gurgling noise, half pained and half in pleasure. His legs spasm, making it look as though he was auditioning to be a Blues Brother. You try to leave but he springs up to stand straight, slamming his palms to your two arms, holding you in place. He stares you in the eye. There's something in it. Sadness? Whatever it was, it dissolved immediately after you noticed. He smiles. 'Rolph!' he says. 'We must leave here Rolph! We must flee!' He flees. You stand there, the shakes gripping your body. You go back to the house and shed some tears.",
+      "branches": "0"
+    },
+    {
+      "number": "26",
+      "text": "It's all in your head, flashing past. All the light and colours. Strange things, mundane things, infuriating things. It starts to hurt, the images thudding around in your head. When did you last drink? Your lips are cracked and bleeding. Don't you feel that grumbling in your stomach?",
+      "branches": "2",
+      "branch1": "It's not too late",
+      "branch1Number": "4",
+      "branch2": "Keep on scrolling",
+      "branch2Number": "27"
+    },
+    {
+      "number": "27 ",
+      "text": "The entirety of this app. Consume. Eat. Feast. You need it, really need it. It's keeps you powered so you can watch and look at more. Looking is all there is. Is this what you really want? Please, why are you doing this to yourself?",
+      "branches": "2",
+      "branch1": "It's really not too late.",
+      "branch1Number": "4",
+      "branch2": "Keep on scrolling",
+      "branch2Number": "28"
+    },
+    {
+      "number": "28",
+      "text": "Is that static, a faint buzzing? You can hear it, can't you. The bed is taking you, you sink further into it, the sheets threatening to compress your body. Please get up. You can go to any of the options, please. I'm begging here. Read all of it, I won't be upset, I promise.",
+      "branches": "1",
+      "branch1": "Keep on scrolling",
+      "branch1Number": "29"
+    },
+    {
+      "number": "29",
+      "text": "You don't have to do what it says, you can pick the other option, it's so easy. It is. Your family have been calling to you. They've been knocking, haven't you heard them? They're asking why you didn't go to dinner. They put some food outside your door, with some water. Please come out. They're worried about you. They care about you. They love you, it's true. Don't listen to what you say in your head.",
+      "branches": "1",
+      "branch1": "Keep on scrolling",
+      "branch1Number": "30"
+    },
+    {
+      "number": "30",
+      "text": "So much content. Its all churned out you know. Al jst unloaded unto the site with no effort. No love or conideration. And you just eat it up. Reaction to latest movie. Reactin to music. To video. To drama. To celebrity. It's all  show its is you know its is. But you consume.",
+      "branches": "1",
+      "branch1": "You keep scrolling",
+      "branch1Number": "31"
+    },
+    {
+      "number": "31",
+      "text": "Youree lusing everythingf. Numbness in head, no thdoughts jiosut eating. You had youre own passons. Remember? Luve? Yloih wanted to do thingsss, be friewnds. Live. AARFH. Its hurts",
+      "branches": "2",
+      "branch1": "Keep scrolling",
+      "branch1Number": "32"
+    },
+    {
+      "number": "32",
+      "text": "Hhaha, bearfe ons a motoroecrylke side cvarf. He pulls our a trumpet anan d begins to play nek it. Ttyis FUNNY.",
+      "branches": "1",
+      "branch1": "Scroll",
+      "branch1Number": "33"
+    },
+    {
+      "number": "33",
+      "text": "We love you. Please come back.",
+      "branches": "1",
+      "branch1": "Scroll",
+      "branch1Number": "34"
+    },
+    {
+      "number": "34",
+      "text": "SCROSLSLL, more sxoo5 eit. Hey, rthaaos a nocje, niceeeess hat.",
+      "branches": "1",
+      "branch1": "Scroll more, kepswps screoggin",
+      "branch1Number": "35"
+    },
+    {
+      "number": "35",
+      "text": "Walkks a falling down. Nighgt sand day yioj annightb n\\hjfurg4s dzy. Its as all collaopsingf. Tikm e gone, alloo tijkme gobe. Newevwer cojmkiing bacoi9uy.",
+      "branches": "1",
+      "branch1": "Scroll",
+      "branch1Number": "36"
+    },
+    {
+      "number": "36",
+      "text": "Tyuikmem iijsams fjrgisiiuhn ghrjeioiuehghn nijmrnniikjn, thjisnijs  crfazyy.",
+      "branches": "1",
+      "branch1": "scrl",
+      "branch1Number": "37"
+    },
+    {
+      "number": "37",
+      "text": "Dsssssssssssssssssssssssssssssssss",
+      "branches": "0"
+    }
+  ]
+}

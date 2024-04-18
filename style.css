@@ -1,0 +1,162 @@
+﻿html, body {
+    background-color: lightgray;
+}
+
+
+topnav {
+    background-color: #f3f1e6;
+    overflow: hidden;
+    float: right;
+}
+
+.topnav a {
+    float: right;
+    background-color: #f59d4e;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+}
+
+/* The below is so that the farthest left tab has a border on its left, 
+   I cannot add a border to every left side or the borders between tabs double up and are very thick */
+#leftmost {
+    border-left: 2px solid black;
+}
+
+/* this is to change the colour of the tab that the user hovers over... */
+.topnav a:hover {
+    background-color: #ca6b28;
+    color: black;
+}
+.topnav a.active {
+    background-color: #ff6a00;
+    color: black;
+}
+#mainTitle {
+    padding: 10px 30px;
+    text-decoration: underline;
+
+    font-family: 'Roboto', sans-serif; /* Use custom font */
+    font-size: 48px; /* Adjust font size */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* adding a shadow */
+    color: black; /* Setting the colur*/
+
+}
+.button:hover{
+    background-color: darkslategrey;
+    font-weight: bold;
+    color: deeppink;
+}
+
+
+
+
+#finishGame {
+    display:none;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+}
+    
+
+
+
+
+
+.textAndImage{
+    overflow:hidden;
+    display: flex;
+}
+
+.text{
+    overflow:hidden
+}
+
+#abstractMonster {
+    border-radius: 8px;
+    width: 40%;
+
+    float:left;
+    margin-right:30px;
+}
+
+
+#extraLink {
+    color:blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow';
+    margin-left: 250px;
+    font-size: 25px;
+}
+
+
+#welcomeText {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: black;
+    font-family: "Arial Rounded MT";
+    font-size: 30px;
+
+
+}
+
+h3 {
+    font-weight: bold;
+    color: black;
+    font-size: 22px;
+    font-family: 'Times New Roman';
+    margin-top: 40px;
+}
+
+li {
+    list-style: square;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+}
+
+
+
+.centerMe{
+
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+#loginButton{
+    margin-top: 8px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-block-color: navy;
+    color: white;
+    background-color:Orange;
+    cursor: pointer;
+}
+#loginButton:hover{
+    background-color: darkorange;
+}
+
+
+#enterUsername {
+    padding: 10px; 
+    font-size: 16px; 
+    border-radius: 5px; /*round corners xo*/
+    border: 3px solid #ccc; 
+    width: 150px; 
+}
+
+#makeMeAppearPlease {
+    padding: 30px;
+    font-size: 50px;
+    text-align: center;
+    color: orange;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black; /* From someone on stack overflow (what a king: https://stackoverflow.com/questions/4919076/outline-effect-to-text) */
+}
